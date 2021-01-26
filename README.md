@@ -1,2 +1,7 @@
 # JC_Process_In_Java
-Small examples to learn how to launch and communicate processes with java.
+
+*Ejemplos subidos al canal de Youtube, vemos cómo lanzar, manipular y comunicar procesos desde Java*
+
+# Tecnologías Utilizadas
+
+- Java (JDK 11)
